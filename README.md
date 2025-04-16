@@ -4,7 +4,7 @@
 
 **Supported**  Although not part of the main Ares code release, this is a supported plugin.  [Report](https://aresmush.com/feedback) any problems you encounter.
 
-Designed for AresMUSH 1.0.
+See release notes to determine which versions of AresMUSH are compatible..
 
 ## Overview
 
@@ -262,7 +262,7 @@ Talent configuration includes:
 
 ## Uninstalling
 
-Removing the plugin requires some code fiddling.  See [Uninstalling Plugins](https://www.aresmush.com/tutorials/code/extras.html#uninstalling-plugins).
+Removing the plugin requires some code fiddling.  See [Uninstalling Plugins](https://www.aresmush.com/tutorials/code/contribs.html#uninstalling-plugins).
 
 ## License
 
